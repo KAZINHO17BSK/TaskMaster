@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen');
+
+body {
+    margin: 0;
+    background-color:#141C44;
+}
+
+h1 {
+    font-size: 70px;
+    font-weight: normal;
+    text-align: center;
+    margin-top: 4%;
+    font-family: 'Koulen';
+    color: #9971EF;
+
+}
+
+.container {
+    height: 50px;
+    width: 500px;
+    margin-left: 38%;
+    border-radius: 30px;
+    color: white;
+    font-family: 'koulen';
+}
+
+label {
+    color: #9971EF;
+    font-size: 25px;
+    display: block;
+    margin-bottom: 8px;
+}
+
+input {
+    font-size: 18px;
+    border: none;
+    height: 20px;
+    width: 400px;
+    color: white;
+    padding: 8px;
+    margin-bottom: 16px;
+    background: #4BA43C;
+    border-radius: 30px;
+}
+
+button {
+    background-color: #4caf50;
+    color: #ffffff;
+    width: 250px;
+    padding: 15px;
+    font-size: large;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    margin-top: 5%;
+    margin-left: 16%;
+}
+
+button:hover {
+    background-color: #4BA43C;
+}
+
+h2 {
+    margin-top: -9.5%;
+    color: #9971EF;
+    font-size: 25px;
+    display: block;
+    margin-bottom: 8px;
+    font-weight: normal;
+}
+
+.cn {
+    display: flex;
+    position: absolute;
+    bottom: 2%;
+    left: 87%;
+}
+h3 {
+    color: white;
+    position: absolute;
+    font-size: 25px;
+    bottom: 5%;
+    left: 87%;
+}
+
+.footer-link {
+    margin: 10px;
+    text-decoration: none;
+    font-size: 27px;
+    color: white;
+}

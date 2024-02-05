@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen');
+
+body {
+    margin: 0;
+    background-color:#141C44;
+    ;
+}
+
+h1 {
+    font-size: 55px;
+    text-align: center;
+    margin-top: 4%;
+    font-family: 'Koulen';
+    color: #4BA43C;
+}
+
+img {
+    margin-left: 30%;
+    padding-top: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.r1 {
+    height: 50px;
+    width: 500px;
+    margin-left: 38%;
+    border-radius: 30px;
+    text-align: center;
+    background: #4BA43C;
+    color: white;
+    font-family: 'koulen';
+}
+
+.r1 h2 {
+    margin-top: 2%;
+    padding-top: 1%;
+}
+
+.r2 {
+    height: 50px;
+    width: 500px;
+    margin-left: 38%;
+    border-radius: 30px;
+    text-align: center;
+    background: #4BA43C;
+    color: white;
+    font-family: 'koulen';
+    margin-top: 2%;
+}
+
+.r2 h2 {
+    margin-top: 2%;
+    padding-top: 1%;
+}
+
+.r3 {
+    height: 50px;
+    width: 500px;
+    margin-left: 38%;
+    border-radius: 30px;
+    text-align: center;
+    background: #4BA43C;
+    color: white;
+    font-family: 'koulen';
+    margin-top: 2%;
+}
+
+.r3 h2 {
+    margin-top: 2%;
+    padding-top: 1%;
+}

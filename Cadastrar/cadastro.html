@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="stylec.css">
+        <title>cadastro</title>
+    </head>
+    <body>
+        <h1>CADASTRO</h1>
+        <div class="container">
+            <form id="signupForm">
+                <label for="name">Nome de usuario:</label>
+                <input type="text" id="name" name="name" required>
+        
+                <label for="email">E-mail:</label>
+                <input type="email" id="email" name="email" required>
+        
+                <label for="password">Senha:</label>
+                <input type="password" id="password" name="password" required>
+                <label for="confirmPassword">Repetir Senha:</label>
+                <input type="password" id="confirmPassword" name="confirmPassword" required>
+                <input type="checkbox" id="showPassword" onclick="togglePasswordVisibility()">
+                <h2>Mostrar senha</h2>
+                <button type="button" onclick="validateForm()">Cadastrar</button>
+            </form>
+        </div>
+        <h3>Continuar com:</h3>
+        <div class="cn">
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+ 		<a href="#" class="footer-link" id="twitter">
+                        <i class="fa-brands fa-twitter"></i>
+                    </a>
+    
+                    <a href="#" class="footer-link" id="facebook">
+                        <i class="fa-brands fa-facebook-f"></i>
+                    </a>
+    
+                    <a href="#" class="footer-link" id="youtube">
+                        <i class="fa-brands fa-youtube"></i>
+                    </a>
+    
+                    <a href="#" class="footer-link" id="Linkedin">
+                        <i class="fa-brands fa-linkedin"></i>
+                    </a>
+    
+                    <a href="#" class="footer-link" id="instagram">
+                        <i class="fa-brands fa-instagram"></i>
+        </div>
+        <script src="scriptc.js"></script>
+    </body>
+</html>
