@@ -1,0 +1,171 @@
+body {
+    margin: 0;
+    background:#141C44;
+}
+
+.nt1 {
+    margin-top: 5%;
+}
+.nt1 img {
+    position: absolute;
+    margin-left: 19%;
+    height: 35%;
+    width: 12%;
+}
+.nt1 h1{
+    font-size: 120%;
+    color: white;
+    margin-left: 33%;
+}
+.nt1 h2 {
+    margin-left: 33%;
+    font-size: 200%;
+    color: white;
+}
+
+.nt1 h3 {
+    margin-left: 33%;
+    font-size: 140%;
+    color: white;
+}
+
+.nt1 h4 {
+    margin-top: 8%;
+    margin-left: 33%;
+    font-size: 16px;
+    color: #787878;
+}
+
+.nt2 {
+    margin-top: 5%;
+}
+.nt2 img {
+    position: absolute;
+    margin-left: 19%;
+    height: 35%;
+    width: 12%;
+}
+.nt2 h1{
+    font-size: 120%;
+    color: white;
+    margin-left: 33%;
+}
+.nt2 h2 {
+    margin-left: 33%;
+    font-size: 200%;
+    color: white;
+}
+
+.nt2 h3 {
+    margin-left: 33%;
+    font-size: 140%;
+    color: white;
+}
+
+.nt2 h4 {
+    margin-top: 6%;
+    margin-left: 33%;
+    font-size: 16px;
+    color: #787878;
+}
+
+.nt3 {
+    margin-top: 5%;
+}
+.nt3 img {
+    position: absolute;
+    margin-left: 19%;
+    height: 35%;
+    width: 12%;
+}
+.nt3 h1{
+    font-size: 120%;
+    color: white;
+    margin-left: 33%;
+}
+.nt3 h2 {
+    margin-left: 33%;
+    font-size: 200%;
+    color: white;
+}
+
+.nt3 h3 {
+    margin-left: 33%;
+    font-size: 140%;
+    color: white;
+}
+
+.nt3 h4 {
+    margin-top: 6%;
+    margin-left: 33%;
+    font-size: 16px;
+    color: #787878;
+}
+
+.nt4 {
+    margin-top: 5%;
+}
+.nt4 img {
+    position: absolute;
+    margin-left: 19%;
+    height: 35%;
+    width: 11.8%;
+    width: 12%;
+}
+.nt4 h1{
+    font-size: 120%;
+    color: white;
+    margin-left: 33%;
+}
+.nt4 h2 {
+    margin-left: 33%;
+    font-size: 200%;
+    color: white;
+}
+
+.nt4 h3 {
+    margin-left: 33%;
+    font-size: 140%;
+    color: white;
+}
+
+.nt4 h4 {
+    margin-top: 6%;
+    margin-left: 33%;
+    font-size: 16px;
+    color: #787878;
+}
+
+.nt5 {
+    margin-top: 7%;
+    margin-bottom: 5%;
+}
+.nt5 img {
+    position: absolute;
+    margin-left: 19%;
+    height: 35%;
+    width: 12%;
+}
+.nt5 h1{
+    font-size: 120%;
+    color: white;
+    margin-left: 33%;
+}
+.nt5 h2 {
+    margin-left: 33%;
+    font-size: 200%;
+    color: white;
+}
+
+.nt5 h3 {
+    margin-left: 33%;
+    font-size: 140%;
+    color: white;
+}
+
+.nt5 h4 {
+    margin-top: 6%;
+    margin-left: 33%;
+    font-size: 16px;
+    color: #787878;
+}

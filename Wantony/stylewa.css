@@ -6,7 +6,7 @@ body {
 }
 
 h1 {
-    font-size: 70px;
+    font-size: 450%;
     font-weight: normal;
     text-align: center;
     font-family: 'Koulen';
@@ -16,13 +16,32 @@ h1 {
 
 img {
     border-radius: 100%;
-    margin-left: 35%;
+    margin-left: 40%;
 }
 
 h2 {
-    font-size: 70px;
+    font-size: 450%;
     font-weight: normal;
     text-align: center;
     font-family: 'Koulen';
     color: #4BA43C
+}
+
+button {
+    padding: 16px;
+    font-size: large;
+    background: #4BA43C;
+    color: white;
+    margin-left: 45%;
+    cursor: pointer;
+    border: none;
+    border-radius: 30px;
+}
+
+button:hover{
+    background: #3f8a32;
+}
+
+a {
+    text-decoration: none;
 }
