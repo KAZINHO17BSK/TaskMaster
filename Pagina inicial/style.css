@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Koulen');
+@import url('https://fonts.googleapis.com/css2?family=Single Day');
 
 body {
     margin: 0;
@@ -21,6 +22,16 @@ img {
 
 a {
     text-decoration: none;
+}
+
+h3 {
+    margin-left: 33%;
+    margin-top: -0.4%;
+    font-size: 24px;
+    background: linear-gradient(to right, #7169e2, #f89ef4);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-family: 'Single Day', sans-serif; 
 }
 
 .r1 {

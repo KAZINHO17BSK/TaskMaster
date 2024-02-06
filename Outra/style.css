@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen');
+@import url('https://fonts.googleapis.com/css2?family=Single Day');
+
+body {
+    margin: 0;
+    background-color:#141C44;
+    font-family: Single Day;
+    font-size: 50px;
+    color: white;
+}
+
+
