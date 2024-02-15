@@ -45,10 +45,11 @@ header {
 .container {
     display: flex;
     gap: 20px;
-    padding: 28%;
+    padding: 16%;
 }
 
 .filme-container,
+.jogo-container,
 .animacao-container,
 .serie-container {
     position: relative;
@@ -59,6 +60,7 @@ header {
     
 .filme-container img,
 .animacao-container img,
+.jogo-container img,
 .serie-container img {
     width: 100%;
     height: auto;
@@ -66,6 +68,7 @@ header {
 }
     
 .filme-overlay,
+.jogo-overlay,
 .animacao-overlay,
 .serie-overlay {
     position: absolute;
@@ -84,11 +87,13 @@ header {
     
 .filme-container:hover img,
 .animacao-container:hover img,
+.jogo-container:hover img,
 .serie-container:hover img {
     transform: scale(1.1);
 }
     
 .filme-container:hover .filme-overlay,
+.jogo-container:hover  .jogo-overlay,
 .animacao-container:hover .animacao-overlay,
 .serie-container:hover .serie-overlay {
     transform: translateY(0);

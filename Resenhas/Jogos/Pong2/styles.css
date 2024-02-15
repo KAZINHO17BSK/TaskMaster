@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background:#141C44;
+  }
+  
+  .container {
+    width: 100%;
+    max-width: 800px;
+    margin: 50px auto;
+    text-align: center;
+  }
+  
+  canvas {
+    border: 1px solid #000;
+    display: block;
+    margin: 0 auto;
+    margin-top: 30%;
+    background: white;
+  }
+  
