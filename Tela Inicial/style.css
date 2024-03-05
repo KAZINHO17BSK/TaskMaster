@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Koulen');
 @import url('https://fonts.googleapis.com/css2?family=Single Day');
+@import url('https://fonts.googleapis.com/css2?family=Creepster');
 
 body {
     margin: 0;
     background-color:#141C44;
-    ;
 }
 
 h1 {
@@ -15,9 +15,20 @@ h1 {
     color: #4BA43C;
 }
 
-img {
-    margin-left: 30%;
-    padding-top: 0;
+h4 {
+    margin-top: -2%;
+    font-family: 'Creepster';
+    font-size: 510%;
+    text-align: center;
+    background: linear-gradient(to right, #7169e2, #f89ef4);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+button {
+    background: white;
+    border-radius: 20%;
+    margin-left: 94%;
 }
 
 a {
@@ -25,18 +36,19 @@ a {
 }
 
 h3 {
-    margin-left: 33%;
-    margin-top: -0.4%;
-    font-size: 24px;
+    margin-top: -5%;
+    text-align: center;
+    font-size: 175%;
     background: linear-gradient(to right, #7169e2, #f89ef4);
     -webkit-background-clip: text;
     color: transparent;
     font-family: 'Single Day', sans-serif; 
 }
 
+
 .r1 {
-    height: 50px;
-    width: 500px;
+    height: 60%;
+    width: 26%;
     margin-left: 38%;
     border-radius: 30px;
     text-align: center;
@@ -46,13 +58,13 @@ h3 {
 }
 
 .r1 h2 {
-    margin-top: 2%;
-    padding-top: 1%;
+    margin-top: 1%;
+    padding: 0%;
 }
 
 .r2 {
-    height: 50px;
-    width: 500px;
+    height: 60%;
+    width: 26%;
     margin-left: 38%;
     border-radius: 30px;
     text-align: center;
@@ -68,8 +80,8 @@ h3 {
 }
 
 .r3 {
-    height: 50px;
-    width: 500px;
+    height: 60%;
+    width: 26%;
     margin-left: 38%;
     border-radius: 30px;
     text-align: center;

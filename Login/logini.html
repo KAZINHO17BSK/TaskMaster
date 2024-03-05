@@ -1,30 +1,24 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-    <head>
+<head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="stylec.css">
-        <title>cadastro</title>
+        <link rel="stylesheet" href="stylesi.css">
+        <title>Login</title>
     </head>
     <body>
-        <div class="b1"><a href="../Cadastrar/cadastroi.html">📱</a>
+        <div class="b1"><a href="../Login/login.html">🖥️</a>
         </div>
-        <h1>CADASTRO</h1>
         <div class="container">
-            <form id="signupForm">
-                <label for="name">Nome de usuario:</label>
-                <input type="text" id="name" name="name" required>
-        
-                <label for="email">E-mail:</label>
-                <input type="email" id="email" name="email" required>
-        
+            <h1>Login</h1>
+            <form id="loginForm">
+                <label for="username">Usuario:</label>
+                <input type="text" id="username" name="username" required>
                 <label for="password">Senha:</label>
                 <input type="password" id="password" name="password" required>
-                <label for="confirmPassword">Repetir Senha:</label>
-                <input type="password" id="confirmPassword" name="confirmPassword" required>
-                <input type="checkbox" id="showPassword" onclick="togglePasswordVisibility()">
+                <input type="checkbox" id="showPasswordCheckbox" onchange="togglePasswordVisibility()">
                 <h2>Mostrar senha</h2>
-                <button type="button" onclick="validateForm()">Cadastrar</button>
+                <button type="button" onclick="authenticateUser()">Entrar</button>
             </form>
         </div>
         <h3>Continuar com:</h3>
@@ -49,6 +43,6 @@
                     <a href="#" class="footer-link" id="instagram">
                         <i class="fa-brands fa-instagram"></i>
         </div>
-        <script src="scriptc.js"></script>
+        <script src="scripti.js"></script>
     </body>
 </html>

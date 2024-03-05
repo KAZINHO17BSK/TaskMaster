@@ -12,15 +12,24 @@ body {
 
 .b1 {
     position: absolute;
+    margin-left:94%;
     background: white;
-    margin-top: -47%;
-    margin-left: 99%;
+    margin-top: -164%;
 }
+
 .container {
+    margin-top: 10%;
     display: flex;
+    flex-direction: column; /* Alteração para colocar os elementos na vertical */
+    align-items: center; /* Centraliza os elementos horizontalmente */
     gap: 20px;
     padding: 16%;
 }
+
+.jogo-container {
+    margin-top: 420%;
+}
+    
 
 .filme-container,
 .jogo-container,

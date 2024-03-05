@@ -11,7 +11,7 @@ body {
 }
 
 h1 {
-    font-size: 70px;
+    font-size: 370%;
     font-weight: normal;
     text-align: center;
     margin-top: 4%;
@@ -22,11 +22,13 @@ h1 {
 
 img {
     border-radius: 40%;
-    margin-left: 40%;
+    margin-left: 15%;
+    height: 50%;
+    width: 70%;
 }
 
 h2 {
-    font-size: 70px;
+    font-size: 370%;
     font-weight: normal;
     text-align: center;
     margin-top: 4%;
@@ -39,7 +41,8 @@ button {
     font-size: large;
     background: #4BA43C;
     color: white;
-    margin-left: 45%;
+    margin-top: -100%;
+    margin-left: 27%;
     cursor: pointer;
     border: none;
     border-radius: 30px;

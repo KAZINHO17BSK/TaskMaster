@@ -1,0 +1,162 @@
+body {
+    margin: 0;
+    background:#141C44;
+}
+
+.nt1 {
+    margin-top: 20%;
+}
+.nt1 img {
+    position: absolute;
+    margin-left: 19%;
+    height: 45%;
+    width: 40%;
+}
+.nt1 h1{
+    font-size: 90%;
+    color: white;
+    margin-left: 60%;
+}
+.nt1 h2 {
+    margin-left: 60%;
+    font-size: 100%;
+    color: white;
+}
+
+.nt1 h3 {
+    margin-left: 60%;
+    font-size: 90%;
+    color: white;
+}
+
+.nt1 h4 {
+    margin-top: 8%;
+    margin-left: 60%;
+    font-size: 16px;
+    color: #787878;
+}
+
+.nt2 {
+    margin-top: 30%;
+}
+.nt2 img {
+    position: absolute;
+    margin-left: 19%;
+    height: 45%;
+    width: 40%;
+}
+.nt2 h1{
+    font-size: 90%;
+    color: white;
+    margin-left: 60%;
+}
+.nt2 h2 {
+    margin-left: 60%;
+    font-size: 100%;
+    color: white;
+}
+.nt2 h3 {
+    margin-left: 60%;
+    font-size: 90%;
+    color: white;
+}
+.nt2 h4 {
+    margin-top: 8%;
+    margin-left: 60%;
+    font-size: 16px;
+    color: #787878;
+}
+.nt3 {
+    margin-top: 30%;
+}
+.nt3 img {
+    position: absolute;
+    margin-left: 19%;
+    height: 45%;
+    width: 40%;
+}
+.nt3 h1{
+    font-size: 90%;
+    color: white;
+    margin-left: 60%;
+}
+.nt3 h2 {
+    margin-left: 60%;
+    font-size: 100%;
+    color: white;
+}
+.nt3 h3 {
+    margin-left: 60%;
+    font-size: 90%;
+    color: white;
+}
+.nt3 h4 {
+    margin-top: 8%;
+    margin-left: 60%;
+    font-size: 16px;
+    color: #787878;
+}
+.nt4 {
+    margin-top: 30%;
+}
+.nt4 img {
+    position: absolute;
+    margin-left: 19%;
+    height: 45%;
+    width: 40%;
+}
+.nt4 h1{
+    font-size: 90%;
+    color: white;
+    margin-left: 60%;
+}
+.nt4 h2 {
+    margin-left: 60%;
+    font-size: 100%;
+    color: white;
+}
+.nt4 h3 {
+    margin-left: 60%;
+    font-size: 90%;
+    color: white;
+}
+.nt4 h4 {
+    margin-top: 8%;
+    margin-left: 60%;
+    font-size: 16px;
+    color: #787878;
+}
+.nt5 {
+    margin-top: 30%;
+    margin-bottom: 20%;
+}
+.nt5 img {
+    position: absolute;
+    margin-left: 19%;
+    height: 45%;
+    width: 40%;
+}
+.nt5 h1{
+    font-size: 90%;
+    color: white;
+    margin-left: 60%;
+}
+.nt5 h2 {
+    margin-left: 60%;
+    font-size: 100%;
+    color: white;
+}
+.nt5 h3 {
+    margin-left: 60%;
+    font-size: 90%;
+    color: white;
+}
+.nt5 h4 {
+    margin-top: 8%;
+    margin-left: 60%;
+    font-size: 16px;
+    color: #787878;
+}
+a {
+    color: purple;
+}

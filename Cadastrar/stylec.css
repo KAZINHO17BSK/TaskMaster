@@ -4,9 +4,14 @@ body {
     margin: 0;
     background-color:#141C44;
 }
+.b1 {
+    text-align: right;
+    background: white;
+}
 
 h1 {
-    font-size: 70px;
+    margin-left: -5%;
+    font-size: 500%;
     font-weight: normal;
     text-align: center;
     margin-top: 4%;

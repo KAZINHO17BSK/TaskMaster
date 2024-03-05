@@ -4,13 +4,13 @@ body {
     margin: 0;
     background-color:#141C44;
 }
+
 .b1 {
     text-align: right;
     background: white;
 }
-
 h1 {
-    font-size: 70px;
+    font-size: 370%;
     font-weight: normal;
     text-align: center;
     margin-top: 4%;
@@ -20,9 +20,8 @@ h1 {
 }
 
 .container {
-    height: 50px;
-    width: 500px;
-    margin-left: 38%;
+    margin-left: 7%;
+    margin-right: 7%;
     border-radius: 30px;
     color: white;
     font-family: 'koulen';
@@ -39,7 +38,7 @@ input {
     font-size: 18px;
     border: none;
     height: 20px;
-    width: 400px;
+    width: 97%;
     color: white;
     padding: 8px;
     margin-bottom: 16px;
@@ -65,7 +64,7 @@ button:hover {
 }
 
 h2 {
-    margin-top: -9.5%;
+    margin-top: -14%;
     color: #9971EF;
     font-size: 25px;
     display: block;
@@ -74,14 +73,11 @@ h2 {
 }
 
 .cn {
-    display: flex;
-    position: absolute;
-    bottom: 2%;
-    left: 87%;
+    margin-left: 9%;
 }
 h3 {
+    text-align: center;
     color: white;
-    position: absolute;
     font-size: 25px;
     bottom: 5%;
     left: 87%;
